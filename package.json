@@ -1,0 +1,22 @@
+{
+  "name": "signalk-nmea2000-server",
+  "version": "1.0.0",
+  "description": "Signal K Node Server Plugin that server nmea2000 data on the network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": "scott@scottbender.net",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbender9/signalk-nmea2000-server"
+  },
+  "dependencies": {
+    "@canboat/canboatjs": "^1.6.5",
+    "lodash": "^4.17.11"
+  }
+}
