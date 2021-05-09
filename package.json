@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "@canboat/canboatjs": "^1.6.5",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.21"
   }
 }
